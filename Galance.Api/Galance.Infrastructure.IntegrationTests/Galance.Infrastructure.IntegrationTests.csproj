@@ -6,4 +6,9 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Galance.Application\Galance.Application.csproj" />
+    <ProjectReference Include="..\Galance.Infrastructure\Galance.Infrastructure.csproj" />
+  </ItemGroup>
+
 </Project>

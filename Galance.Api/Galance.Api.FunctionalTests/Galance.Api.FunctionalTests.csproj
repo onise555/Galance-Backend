@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Galance.Api\Galance.Api.csproj" />
+  </ItemGroup>
+
 </Project>
