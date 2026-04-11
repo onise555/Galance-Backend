@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Galance.Api\Galance.Api.csproj" />
+    <ProjectReference Include="..\..\src\Galance.Api\Galance.Api.csproj" />
   </ItemGroup>
 
 </Project>
