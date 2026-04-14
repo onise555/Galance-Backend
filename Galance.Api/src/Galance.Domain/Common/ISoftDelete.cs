@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Galance.Domain.Common
 {
-    public abstract class BaseEntity
+    internal class ISoftDelete
     {
-        public Guid Id { get; private set; }
     }
 }
