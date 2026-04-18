@@ -22,4 +22,8 @@
     <ProjectReference Include="..\Galance.Infrastructure\Galance.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Controllers\" />
+  </ItemGroup>
+
 </Project>
